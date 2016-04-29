@@ -4,7 +4,7 @@
 #
 Name     : rubygem-shoulda-context
 Version  : 1.2.1
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/shoulda-context-1.2.1.gem
 Source0  : https://rubygems.org/downloads/shoulda-context-1.2.1.gem
 Summary  : No detailed summary available
